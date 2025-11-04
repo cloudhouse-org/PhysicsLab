@@ -1,0 +1,9 @@
+Parameter,Sample 1 Value,Sample 2 Value
+U_Hs / mV,572.250,588.000
+U_Hc / mV,257.250,269.000
+U_Bs/ mV,30.500,49.250
+U_Br / mV,19.125,13.750
+H_m / (A * m^-1),,
+H_c / (A * m^-1),,
+B_c / T,,
+B_r / T,,
